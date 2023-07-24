@@ -1,0 +1,7 @@
+{
+    "id": 3,
+    "stance": "Regular",
+    "name": "New Trick Name",
+    "obstacle": "Flatground",
+    "tutorial": "https://www.youtube.com/watch?v=newtrick"
+  }

@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "stance": "regular",
+      "name": "Trick 1",
+      "obstacle": "Flatground",
+      "tutorial": "https://www.youtube.com/watch?v=trick1"
+    },
+    {
+      "id": 2,
+      "stance": "switch",
+      "name": "Trick 2",
+      "obstacle": "Ledge",
+      "tutorial": "https://www.youtube.com/watch?v=trick2"
+    }
+  ]
